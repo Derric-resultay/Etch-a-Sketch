@@ -1,0 +1,14 @@
+.main-container {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    gap: 20px;
+}
+.container {
+    flex: auto;
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    height: 700px;
+    border: 1px solid black;
+}
